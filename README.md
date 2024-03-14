@@ -5,10 +5,10 @@ This repository serves as a repository for the supporting code and data derived 
 This repository primarily focuses on storing machine learning code and software from the paper "Machine learning and multi-omics data reveal driver gene-based molecular subtypes in hepatocellular carcinoma for precision treatment".
 
 ✅
- **SVM_10**: Machine learning classifier based on the expression of 10 genes.
+` **SVM_10**`: Machine learning classifier based on the expression of 10 genes.
  
 ✅
- **SVM_TTK**: Machine learning classifier based on the expression of TTK.
+` **SVM_TTK**`: Machine learning classifier based on the expression of TTK.
  
 ✅
  We have also packaged these two models into executable software, but due to the file upload size limit on GitHub, we have compressed the software into split volumes.
