@@ -1,10 +1,17 @@
 # This project stores the machine learning model from the paper 'Machine learning and multi-omics data reveal driver gene-based molecular subtypes in hepatocellular carcinoma for precision treatment'
 This repository serves as a repository for the supporting code and data derived from the research conducted in this study, intended for the broader scientific community to utilize. The code and data stored here are available for academic use free of charge; any other type of use is strictly prohibited.
 
-- This repository primarily focuses on storing machine learning code and software from the paper "Machine learning and multi-omics data reveal driver gene-based molecular subtypes in hepatocellular carcinoma for precision treatment".
-- **SVM_10**: Machine learning classifier based on the expression of 10 genes.
-- **SVM_TTK**: Machine learning classifier based on the expression of TTK.
-- We have also packaged these two models into executable software, but due to the file upload size limit on GitHub, we have compressed the software into split volumes.
+✅
+This repository primarily focuses on storing machine learning code and software from the paper "Machine learning and multi-omics data reveal driver gene-based molecular subtypes in hepatocellular carcinoma for precision treatment".
+
+✅
+ **SVM_10**: Machine learning classifier based on the expression of 10 genes.
+ 
+✅
+ **SVM_TTK**: Machine learning classifier based on the expression of TTK.
+ 
+✅
+ We have also packaged these two models into executable software, but due to the file upload size limit on GitHub, we have compressed the software into split volumes.
 
 # Introduction
 
@@ -24,10 +31,11 @@ project
 └───test data
 ```
 
-- **ML model**: Stores two classification models, SVM_10 and SVM_TTK.
-  - **SVM_10**: Contains the code files and related tutorials for SVM_10.
-    - **SVM_10 APP**: Stores the executable program for SVM_10 and related tutorials.
-  - **SVM_TTK**: Contains the code files and related tutorials for SVM_TTK.
-    - **SVM_TTK APP**: Stores the executable program for SVM_TTK and related tutorials.
-- **APP file**: Stores the related executable software. Please note that due to GitHub's file upload size limitations, we have compressed the software into split volumes.
-- **Test data**: Contains a set of test data.
+
+- `**ML model**`: Stores two classification models, SVM_10 and SVM_TTK.
+  - `**SVM_10**`: Contains the code files and related tutorials for SVM_10.
+    - `**SVM_10 APP**`: Stores the executable program for SVM_10 and related tutorials.
+  - `**SVM_TTK**`: Contains the code files and related tutorials for SVM_TTK.
+    - `**SVM_TTK APP**`: Stores the executable program for SVM_TTK and related tutorials.
+- `**APP file**`: Stores the related executable software. Please note that due to GitHub's file upload size limitations, we have compressed the software into split volumes.
+- `**Test data**`: Contains a set of test data.
