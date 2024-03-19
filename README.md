@@ -9,6 +9,8 @@ This repository primarily focuses on storing machine learning code and software 
  
 ✅
 ` **SVM_TTK**`: Machine learning classifier based on the expression of TTK.
+
+✅` **Subtype-based prognostic models**`: [prognostic models](https://mike-wang-bjut.shinyapps.io/DynNomapp_HCC_Sutypes/)
  
 ✅
  We have also packaged these two models into executable software, but due to the file upload size limit on GitHub, we have compressed the software into split volumes.
